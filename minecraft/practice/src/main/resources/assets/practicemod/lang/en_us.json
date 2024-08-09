@@ -1,0 +1,11 @@
+{
+  "item.practicemod.sapphire": "Sapphire",
+  "item.practicemod.ruby": "Ruby",
+  "item.practicemod.zoom_stick": "Zoom Stick",
+
+  "block.practicemod.sapphire_block": "Sapphire Block",
+  "block.practicemod.ruby_block": "ruby Block",
+  "block.practicemod.bounce_block": "Bounce Block",
+
+  "creativetab.practice_tab": "Practice Tab"
+}

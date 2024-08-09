@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Forge-Tutorial-1.20.X-1-setup" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
