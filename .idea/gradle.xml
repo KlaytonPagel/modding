@@ -4,10 +4,10 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/minecraft/Forge-Tutorial-1.20.X-1-setup" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/minecraft/elevator" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/minecraft/Forge-Tutorial-1.20.X-1-setup" />
+            <option value="$PROJECT_DIR$/minecraft/elevator" />
           </set>
         </option>
       </GradleProjectSettings>

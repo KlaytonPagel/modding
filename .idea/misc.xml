@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/minecraft/elevator" />
     <file type="web" url="file://$PROJECT_DIR$/minecraft/Forge-Tutorial-1.20.X-1-setup" />
     <file type="web" url="file://$PROJECT_DIR$/minecraft/practice" />
   </component>

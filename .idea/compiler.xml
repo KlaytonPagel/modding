@@ -3,6 +3,8 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
       <module name="Forge-Tutorial-1.20.X-1-setup" target="17" />
+      <module name="Forge-Tutorial-1.20.X-1-setup.main" target="17" />
+      <module name="Forge-Tutorial-1.20.X-1-setup.test" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
